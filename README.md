@@ -25,7 +25,7 @@ Picture this:
 # John Doe's CV
 
 - Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
+- Email: [youremail@yourdomai.com](mailto:youremail@yourdomai.com)
 - Location: Your Location
 - Website: [yourwebsite.com](https://yourwebsite.com/)
 - LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
